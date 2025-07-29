@@ -29,7 +29,7 @@ A comprehensive Power BI dashboard project created to visualize and analyze sale
 
 ## 🖼️ Dashboard
 
-![Blinkit Sales Dashboard](https://github.com/Pranab9667/Power-BI-Blinkit/blob/main/Screenshot%202025-07-29%20214520.png)
+![Blinkit Sales Dashboard](https://github.com/Pranab9667/Power-BI-Blinkit/blob/main/Screenshot%202025-07-29%20215240.png)
 
 ---
 
