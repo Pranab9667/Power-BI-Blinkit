@@ -63,9 +63,9 @@ A comprehensive Power BI dashboard project created to visualize and analyze sale
 ---
 
 ## 📬 Contact
-**Author:** [Your Name]  
-**LinkedIn:** [Your LinkedIn]  
-**Email:** [Your Email]  
+**Author:** [Pranab Pradhan]  
+**LinkedIn:** [www.linkedin.com/in/pranab-pradhan-230568219]  
+**Email:** [pranbpradhan697@gmail.com]  
 
 ---
 
